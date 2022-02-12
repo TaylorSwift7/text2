@@ -22,5 +22,7 @@ public class BookServlet extends HttpServlet {
         System.out.println("doGet");
         System.out.println("doGet");
         System.out.println("doGet");
+        System.out.println("doGet");
+        System.out.println("doGet");
     }
 }
